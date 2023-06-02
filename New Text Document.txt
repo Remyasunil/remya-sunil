@@ -1,0 +1,8 @@
+check the cmds below
+
+git clone https://github.com/Remyasunil/remya-sunil.git
+
+git init
+git add .
+git commit -m "added new file"
+git push orgin main
